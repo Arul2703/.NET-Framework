@@ -1,0 +1,15 @@
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\bin\Debug\net6.0\PercentageCalculation.exe
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\bin\Debug\net6.0\PercentageCalculation.deps.json
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\bin\Debug\net6.0\PercentageCalculation.runtimeconfig.json
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\bin\Debug\net6.0\PercentageCalculation.dll
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\bin\Debug\net6.0\PercentageCalculation.pdb
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\obj\Debug\net6.0\PercentageCalculation.csproj.AssemblyReference.cache
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\obj\Debug\net6.0\PercentageCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\obj\Debug\net6.0\PercentageCalculation.AssemblyInfoInputs.cache
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\obj\Debug\net6.0\PercentageCalculation.AssemblyInfo.cs
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\obj\Debug\net6.0\PercentageCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\obj\Debug\net6.0\PercentageCalculation.dll
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\obj\Debug\net6.0\refint\PercentageCalculation.dll
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\obj\Debug\net6.0\PercentageCalculation.pdb
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\obj\Debug\net6.0\PercentageCalculation.genruntimeconfig.cache
+C:\Users\Arularasi\Desktop\Aspire Systems Programs\PercentageCalculation\obj\Debug\net6.0\ref\PercentageCalculation.dll
